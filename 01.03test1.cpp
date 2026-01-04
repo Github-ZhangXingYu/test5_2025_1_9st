@@ -49,6 +49,5 @@ signed main(){
     ios::sync_with_stdio(false);//cin.tie(0);cout.tie(0);
     ll _=1;cin>>_;while(_--)
         solve(_);
-    cout<<"hhh"<<endl;
     return 0;
 }
